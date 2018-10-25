@@ -1,9 +1,6 @@
-// LANGUAGE: Java
-// AUTHOR: Ben White
-// GITHUB: https://github.com/bwhite77
-
-public class HelloWorld {
-  public static void main() {
-    System.out.println("Hello world!");
+public class HelloWorld{
+  public static void main(String args[]) {
+      System.out.println("Hello, world!");
+      System.out.println("Programming is fun!");
   }
 }
